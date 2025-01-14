@@ -1,3 +1,4 @@
-- 👋 Hi, I'm @Mouad-Scrptz
-- 🌱 Learning > Private API reverse engineering/botting
+- 😐 Sup, I'm Mouad!
+- 🤖 Learning > Private API reverse engineering/botting
 - 📫 Discord > mouad.0
+- 👽 Discord server > https://discord.gg/5UzK26afzv
